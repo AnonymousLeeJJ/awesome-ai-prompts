@@ -116,7 +116,7 @@ html = """<!DOCTYPE html>
 <div class="toast" id="toast">已复制到剪贴板 ✅</div>
 
 <footer>
-  <p>用 ❤️ 维护 · <a href="https://github.com/YOUR_USERNAME/awesome-ai-prompts" target="_blank" rel="noopener">GitHub 仓库</a> · 欢迎 Star ⭐ 与投稿</p>
+  <p>用 ❤️ 维护 · <a href="https://github.com/AnonymousLeeJJ/awesome-ai-prompts" target="_blank" rel="noopener">GitHub 仓库</a> · 欢迎 Star ⭐ 与投稿</p>
 </footer>
 
 <script id="prompts-data" type="application/json">__DATA__</script>

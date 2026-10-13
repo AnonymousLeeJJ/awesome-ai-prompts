@@ -4,12 +4,12 @@
 
 **精心筛选的高质量中文 AI 提示词库 —— 每一条都经过实战打磨，即复制即用**
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/awesome-ai-prompts?style=social)](https://github.com/YOUR_USERNAME/awesome-ai-prompts/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/awesome-ai-prompts?style=social)](https://github.com/YOUR_USERNAME/awesome-ai-prompts/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/AnonymousLeeJJ/awesome-ai-prompts?style=social)](https://github.com/AnonymousLeeJJ/awesome-ai-prompts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AnonymousLeeJJ/awesome-ai-prompts?style=social)](https://github.com/AnonymousLeeJJ/awesome-ai-prompts/network/members)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**[🌐 在线浏览（支持搜索 / 筛选 / 一键复制）](https://YOUR_USERNAME.github.io/awesome-ai-prompts/)** ｜ [English](README_EN.md) ｜ [贡献指南](CONTRIBUTING.md)
+**[🌐 在线浏览（支持搜索 / 筛选 / 一键复制）](https://AnonymousLeeJJ.github.io/awesome-ai-prompts/)** ｜ [English](README_EN.md) ｜ [贡献指南](CONTRIBUTING.md)
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ## 🚀 快速开始
 
-1. 打开 **[在线浏览页面](https://YOUR_USERNAME.github.io/awesome-ai-prompts/)**（推荐，支持搜索和一键复制）
+1. 打开 **[在线浏览页面](https://AnonymousLeeJJ.github.io/awesome-ai-prompts/)**（推荐，支持搜索和一键复制）
 2. 或直接浏览下方分类，复制你需要的提示词
 3. 把 `【填写】` 占位符替换成你的内容，粘贴到任意 AI 对话工具（ChatGPT / Claude / 元宝 / 豆包 / DeepSeek 等）
 
@@ -140,7 +140,7 @@
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-prompts&type=Date)](https://star-history.com/#YOUR_USERNAME/awesome-ai-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AnonymousLeeJJ/awesome-ai-prompts&type=Date)](https://star-history.com/#AnonymousLeeJJ/awesome-ai-prompts&Date)
 
 ## 📄 许可
 

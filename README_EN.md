@@ -4,11 +4,11 @@
 
 **A curated collection of high-quality Chinese AI prompts — battle-tested and ready to copy-paste**
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/awesome-ai-prompts?style=social)](https://github.com/YOUR_USERNAME/awesome-ai-prompts/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/AnonymousLeeJJ/awesome-ai-prompts?style=social)](https://github.com/AnonymousLeeJJ/awesome-ai-prompts/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**[🌐 Browse Online (search / filter / one-click copy)](https://YOUR_USERNAME.github.io/awesome-ai-prompts/)** ｜ [中文版](README.md)
+**[🌐 Browse Online (search / filter / one-click copy)](https://AnonymousLeeJJ.github.io/awesome-ai-prompts/)** ｜ [中文版](README.md)
 
 </div>
 
@@ -37,7 +37,7 @@ Most prompt collections on the internet are one-liners like "You are an expert, 
 
 ## Quick Start
 
-1. Open the **[online browser](https://YOUR_USERNAME.github.io/awesome-ai-prompts/)** (recommended — search & one-click copy)
+1. Open the **[online browser](https://AnonymousLeeJJ.github.io/awesome-ai-prompts/)** (recommended — search & one-click copy)
 2. Copy any prompt and replace the `【fill in】` placeholders with your content
 3. Paste into any AI chat tool (ChatGPT / Claude / Gemini / DeepSeek, etc.)
 
