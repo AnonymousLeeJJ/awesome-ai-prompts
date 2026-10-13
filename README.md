@@ -142,6 +142,12 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AnonymousLeeJJ/awesome-ai-prompts&type=Date)](https://star-history.com/#AnonymousLeeJJ/awesome-ai-prompts&Date)
 
+## 🔗 我的其他项目
+
+- 🔌 [Free APIs 中文精选](https://github.com/AnonymousLeeJJ/free-apis-zh) — 真正可用的免费 API 大全，标注是否需 Key
+- 🧭 [AI Tools 导航](https://github.com/AnonymousLeeJJ/ai-tools-nav) — 国内外好用的 AI 工具精选，标注免费情况
+- 📄 [Awesome Resume 简历模板](https://github.com/AnonymousLeeJJ/awesome-resume-zh) — 免费中文简历模板，浏览器直接导出 PDF
+
 ## 📄 许可
 
 [CC0 1.0 Universal](LICENSE) —— 公有领域，随意使用，无需署名。
